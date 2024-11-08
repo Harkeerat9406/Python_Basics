@@ -1,0 +1,1 @@
+This .ipynb file contains basics of Python and practice on various concepts during my learning based on basics.
